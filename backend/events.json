@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Internal team","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XWly8RXF0ZKN4qgs9xpshKlX0bam9I8j0A&s","date":"2026-06-24","description":"new eventsss","id":"d63e090d-25bb-405c-a68d-03afea1650fb"},{"title":"Meeting with Shilpa","image":"https://www.skillcast.com/hs-fs/hubfs/YoungPeopleBusinessMeeting_1200x627.jpg?width=960&name=YoungPeopleBusinessMeeting_1200x627.jpg","date":"2026-06-09","description":"Wow awesome","id":"1c159613-b485-4c4c-bac7-69c2b84609ed"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
